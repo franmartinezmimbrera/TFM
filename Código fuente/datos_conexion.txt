@@ -1,0 +1,4 @@
+CAmbiar po maquina
+Cambiar por usuario
+Cambiar por clave
+Cambiar por puerto
